@@ -30,4 +30,28 @@ div {
   margin-bottom: 20px;
   margin-right: 500px;
   margin-left: 500px;
+  border: 3px solid #913328;
+  background-color: lightgrey;
+}
+
+.column {
+  width: 600px;
+  float: left;
+  border-style: solid;
+  border-width: thick;
+  border: 3px solid #913328;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin-right: 20px;
+  margin-left: 120px;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: lightgrey;
+}
+
+.image2 {
+  display: block;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
 }
