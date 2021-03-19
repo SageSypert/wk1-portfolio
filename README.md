@@ -1,39 +1,42 @@
-# _{Application Name}_
+# _Epicodus Portfolio_
 
-#### _{Brief description of application}_
+#### _Basic portfolio webpage_
 
-#### By _**{List of contributors}**_
+#### By _**Sage Sypert**_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _CSS_
+* _Visual Studio Code_
+* _Bootstrap_
+* _Git Bash_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_Basic portfolio webpage to serve as week one independent project for student Sage Sypert. Webpage details hobbies, interests, and list of lesson projects as assigned by Epicodus._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* To view this webpage, follow this [link](https://sagesypert.github.io/wk1-portfolio/) in a modern browser
+* You can also use git to make a copy of this project with your terminal with the following commands:
+    $ cd directory of your choice
+    $ git clone https://github.com/sagesypert/wk1-portfolio.git
+* Remove all remotes pointing to my directory. You can do this by typing $ git remote rm origin
+* Add your remote repository by typing:
+    $ git remote add location nickname and your repository URL
+* Access your copied files in wherever you edit code. From your terminal, you can enter the command "code ."
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _No Known Issues_
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_MIT License_
+
+Copyright (c) 2021 Sage Sypert
 
 ## Contact Information
 
-_{Add your contact information here.}_
+_Sage Sypert <sage.sypert@gmail.com>_
